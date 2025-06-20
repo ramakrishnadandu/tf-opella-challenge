@@ -1,4 +1,4 @@
-# tf-opella-challenge
+# TF-opella-challenge
 ✅ Project Overview
 
 📦 Folder Structure
@@ -82,4 +82,22 @@ Custom name/address space
 Multiple subnets
 
 Outputs: vnet_id, subnet_ids
+🔐 The Pipeline output
+🧩Workflow link
+[Opell-Infra_Deploymen]([https://github.com/ramakrishnadandu/tf-opella-challenge/actions/runs/15774805490](https://github.com/ramakrishnadandu/tf-opella-challenge/actions/runs/15775569484))
+![image](https://github.com/user-attachments/assets/890a125f-a13e-4c75-9150-d08255e5a72f)
+
+![image](https://github.com/user-attachments/assets/5a8ca4d0-c7d7-4f39-aa2f-f3dff7f74969)
+![image](https://github.com/user-attachments/assets/20060672-c7cb-4bcd-8c73-54ea9bb2a0f0)
+
+✅ Resource in  Dev Environment(Azure)
+![image](https://github.com/user-attachments/assets/844e1b08-5e6f-46b0-a37e-03af8e1f8d07)
+
+
+✅ Resource in  Prod Environment(Azure)
+![image](https://github.com/user-attachments/assets/41380d3c-0744-4699-91a8-20f85650f8c3)
+
+
+
+
         
