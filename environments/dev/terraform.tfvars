@@ -1,6 +1,6 @@
 subscription_id      = "f95be054-4850-4ab7-9f78-ebd1c752a9e6"
 environment          = "dev"
-resource_group_name  = "dev-rg"
+resource_group_name  = "Central India"
 location             = "East US"
 
 address_space = ["10.10.0.0/16"]
