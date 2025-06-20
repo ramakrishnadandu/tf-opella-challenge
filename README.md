@@ -1,4 +1,4 @@
-# TF-opella-challenge
+# tf-opella-challenge
 ✅ Project Overview
 
 📦 Folder Structure
